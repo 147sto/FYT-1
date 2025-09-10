@@ -56,7 +56,7 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Clic
 For further customization and setup guidance, click the button below:
 
 <div align="center">
-  <a href="https://youtu.be/-oz_u1iMgf8">
+  <a href="">
     <img src="https://img.shields.io/badge/Deploy Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
   </a>
   <a href="https://bot-hosting.net/?aff=1068419752923508776">
@@ -75,7 +75,7 @@ For further customization and setup guidance, click the button below:
 ### Join Us
 
 <div align="center">
-  <a href="https://t.me/+3QhFUZHx-nhhZmY1">
+  <a href="">
     <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
   </a>
   <a href="https://whatsapp.com/channel/0029Vb6dOl947XeDfU5RLv2m">
